@@ -1,0 +1,477 @@
+Sum of three,four,five and six	18.0
+3 minus 6	-3.0
+addition of five and six	11.0
+eight - one	7.0
+difference of ten and three	7.0
+difference between eight and two	6.0
+subtract one from seven	6.0
+two minus one	1.0
+sum of 5 and ten	15.0
+product of sum of 5 and 6 and the sum of 7 and 8	165.0
+product of sum of 2 and 3 and 4	20.0
+what is the result when 105 is divided by 21	5.0
+add two million and three million	5000000.0
+what happens when 7676 is added to 24	7700.0
+what is the result after adding 25 and 75	100.0
+add fifty six with one hundred four	160.0
+product of sum of product of sum of product of sum of 2 and 3 and 4 and 5 and 6 and 7 and product of 2 and 3	942.0
+product of 5 and division of 100 by 10 with the product of addition of 5 and 6 and 7	3850.0
+sum of division of 3 by 6 and four and 3 multiplied by 7	52.5
+minus two multiplied by six	-12.0
+six added to the sum of minus two and minus seven	-3.0
+one plus minus two plus three plus minus four plus five	3.0
+sum of square root of 5 plus 7 and the product of 4 and 5	23.464102
+sum of square root of 40 plus 60 and the product of 4 and 5	30.0
+sum of square root of 40 plus 60 and 21	31.0
+what happens when two is added to the sum of 5 and 3	10.0
+two added to the result of 5 minus 1	6.0
+what is the result of the sum of seven, eight and 10	25.0
+square of 2	4.0
+square of 2 plus 3	25.0
+square root of 2 plus 3	2.236068
+multiply the square of 2 plus 3 to five	125.0
+cube of three	27.0
+cube of three added to seven	1000.0
+cube root of twenty seven	3.0
+cube of 6	216.0
+cube root of 216	6.0
+cube root of 195	5.79889
+square root of 195	13.96424
+-2.4 plus 3.6	1.2
+what will be the answer if we subtract one from six	5.0
+add seven	7.0
+multiply -109 and 567.35	-61841.15
+four times six	24.0
+subtract 56 from 100	44.0
+sum of twenty five, five, sixty, seventy, point five and eight	168.5
+sum of 8.9, 7.1 and - 4	12.0
+what happens when we add one, two, three and four to 10	20.0
+seventy eight minus thirty eight	40.0
+123 - 23	100.0
+45 + 67 + 55	167.0
+one thousand ninety minus six hundred sixty six	424.0
+sum of - 1 and - 79	-80.0
+what is the sum of 13 and fifteen	28.0
+what is the sum of 112 and 555	667.0
+what is the sum of 23.856 and 1.144	25.0
+sum of six point seven, two point three and one	10.0
+what is the value of 67 - 27	40.0
+what is the value of one hundred twenty five minus six hundred twenty five	-500.0
+what is the addition of 110 and ninety	200.0
+what happens when 99 is added to 101	200.0
+what happens when fifty five is added to the result of the sum of 22 and 33	110.0
+adding 1 to 9 yields?	10.0
+what is the value after adding six to seven	13.0
+what is the result after the addition of 1 and 2 and 3 and 4 and 5 and 6 and 7 and 8 and 9 and 10	55.0
+two times four	8.0
+product of sum of three and one and sum of four and five	36.0
+product of thirty-five and addition of minus one and two 	-75.0
+two raised to the power two	22.0
+two power two	0.0
+two by two	22.0
+sum of three and four	7.0
+product of sum of three and four and five and ninety two	3220.0
+sum of product of two and one and division of two by one	4.0
+sum of three, five and two 	10.0
+can you tell me the product of division of six by three and division of sum of three and three by two? 	6.0
+I want the sum of thirty five and product of division of three by one and 2	41.0
+what is three times two?	6.0
+what is the sum of three times two and two times three?	24.0
+hello computer, give me sum of three and two?	5.0
+give me addition of 3 and nine!	12.0
+add two and three, then diivide by six by two, then add the two results	15.0
+give me product of three times two and two times three?	36.0
+add nine and difference of five and product of one and three	11.0
+difference of product of difference of three and two and sum of two and one and three	0.0
+two by three	23.0
+multiply two and product of three and one	6.0
+add two and three	5.0
+product of product of one and product of two and three and product of one and two	12.0
+division of thirty six by product of two and three	6.0
+can i know the division of addtion of nine and six by five?	0.3
+can i know the division of addition of nine and six by five?	3.0
+give me the result of addition of product of three and two and five	11.0
+4 * 8 / 2 + 7 - 8 * 2 - 8 + 4 / 8 / 4 + 8	8.8125
+what do i get if i add nine and three?	12.0
+subtracting three from the sum of five and nine is-	11.0
+sum of three and product of two and five?	13.0
+product of three and sum of two and five	21.0
+3 multiply 2 plus five	6.0
+one by two plus one by two	15.0
+sum of one by two and one by two	6.0
+add 3 and sum of 1 and 5	9.0
+add three and difference of 4 and 5	2.0
+three + two * four	9.0
+2 + 3	5.0
+2 + 3 / 5	1.0
+2 \* 3	-1.0
+2 + 3 times 4	20.0
+2 plus three times four	20.0
+one by 6	16.0
+(1 plus 3) into 4	16.0
+(1 plus ( two minus one)) into ( three plus four)	10.0
+product of three and sum of two and 3	15.0
+product of 3 and sum of two and three	15.0
+product of three and sum of two and sum of two and three	11.0
+( one plu two) into three	-3.0
+( one plus two) into three	-3.0
+product of three and sum of two and three	15.0
+product of two and sum of three and five	16.0
+sum of three and product of three and five	18.0
+sum of three and product if three and sum of three and five	27.0
+2 + 3 * 5	25.0
+add three to the sum of four and five	12.0
+add three and sum of three and five and addition of four and six	21.0
+4 * 5 + 3 * 2	46.0
+add three and sum of five and product of the five and add of four and six	58.0
+sum of three and five added to the product of five and six	38.0
+sum of three and five added to the product of eight and sum of nine and ten	160.0
+two * four + three * six	15.0
+four / two + six / three	2.666667
+1 - 4 + 5 / 2 + 7 - 1 + 5 + 9	-24.5
+Add two times two to five times three	27.0
+sum of three times four and five times six	102.0
+product of three and sum of three by two and five by six	48.0
+Add five to the product of three and six	23.0
+SUbtract two from the product of five and six	28.0
+two subtracted from the product of sum of three and five and sum of five and six	86.0
+Product of ninety two and seventy six	6992.0
+product of ninety two and seventy six added to the sum of thirty two and fifty one	7075.0
+five multiplied by six divided by seven	4.285714
+Ninety two added to the product of four and two	100.0
+Multiply fifty five by the sum of nine and two	605.0
+Subtract two from ten from three	11.0
+Sum of Ninety NIne and One minus ten	90.0
+can you find me the sum of three and six	9.0
+Add three to the sum f fivr and six	9.0
+product of three and five added to the sum of thousand and three	1018.0
+find the sum of three and four	7.0
+sum of product of three and five and nine and ten	34.0
+product of three and four and five and six	360.0
+what is the sum of one by two and one by two	6.0
+product of three and two and five and six sdded to the sum if nine and ten and eleven	5400.0
+subtract five from the sum of three and two	0.0
+two plus three minus five into nine	0.0
+two plus three plus five plus six plus seven minus nine minus seven minus one minus three into one into seven into ninety nine minus hundred	1979.0
+one by three plus six	19.0
+twenty two divided by seven	3.142857
+three into twenty two into seven divided by seven	66.0
+find me the sum of three and four and five and nine	21.0
+sum of three added to the product of five and six	33.0
+find me the sum of ninety two and eight	100.0
+subtract three from the product of sum of nine and six and sum of three and two	72.0
+two plus three minus five	0.0
+product two to the sum of six and six	24.0
+three minus three plus seven and eight and nine and ten	34.0
+five into five added to three into six	168.0
+five into three added to the product of three and nine	42.0
+add three to the product of three and nine	30.0
+three plus nine	-6.0
+2 + 3 + 6 + 3	14.0
+1 + 2 + 3 + 4+ 5	15.0
+product of three and sum of three and product of nine and six	63.0
+product of three and five	15.0
+find me the sum of three and six	9.0
+nine into seven	63.0
+five into three and five	75.0
+five into nine ito seven into nine into one ito two divided by six	360.0
+thirty one intothree	31.0
+twenty five into four	100.0
+five into nine plus six 	51.0
+product of sum of three and nine and sum of nine and six	180.0
+nine plus nine into ten	180.0
+two divided by two	1.0
+product of sum of two divided by two and sum of nine divided by nine	2.0
+product of sum of one divided by two and one divided by two and sum of two divided by three and one divided by three	0.416667
+one divided by two plus one divided by two plus one divided by three plus two divided by three	0.861111
+five into three minus fifteen	0.0
+sum of three and six	9.0
+sum of three and six and five and nine	23.0
+two plus two minus three into six plus nine into five plus nine plus one minus five minus seven	73.0
+sum of two times two and two times three	18.0
+ten minus one minus one minus one minus one minus one minus one minus one minus one	2.0
+product of sum of three and two and sum of one and nine	50.0
+product of sum of one and one and sum of one and one and sum of two and two and sum of four and four	16.0
+sum of product of one and three and produt of nine and ten and product of five and four and product of one and two	62.0
+sum of product of one and three and product of nine and ten and product of five and four and product of one and two	3603.0
+product of three and five added to product of three and five	30.0
+sum of three and product of nine and five	48.0
+ninety divided by nine	10.0
+five multiplied by four	20.0
+five multiplied four multiplied by six multiplied by nine	54.0
+nine plus nine plus six plus four plus nine plus nine minus three minus four	39.0
+one plus two minus three plus five	5.0
+product of sum of three and five and sum of nine and one	80.0
+two divided by three into five divided by six	0.555556
+two minus three plus nine plus five plus three into five into nine	720.0
+sum of three and four multiplied by sum of three and six	63.0
+sum of three and six multiplied by sum of three and nine multiplied by sum of five and six	1188.0
+two divided by two 	1.0
+ten minus three plus two minus five plus nine into seven minus three divided by nine	9.777778
+product of sum of three and six and sum of nine and nine	162.0
+product of three and four	12.0
+fifty five plus ninety nine	154.0
+two into four and five into six	240.0
+three and six	36.0
+two plus nine plus five plus five	21.0
+the sum of ninety nine and fifty seven and seventy six and thirty four ito zero plus sixty nine	421.0
+the sum of ninety nine and fifty seven and seventy six and thirty four into zero plus sixty nine	69.0
+product of one and nine added to the sum of thrree and four	13.0
+two divided by two plus one divided by one plus three divided by three	1.666667
+three multiplied by sum of five and six	33.0
+sum of five and six plus nine and one	21.0
+product of three and nine minus twelve	15.0
+ten divided by five	2.0
+twenty divided by five minus four	0.0
+sum of one and two	3.0
+two plus three plus four plus five plus six minus nine minus three minus four minus five minus six	-7.0
+ninety nine plus one	100.0
+two plus three minus three plus nine plus one	12.0
+two into two into two into two into two into two into two into two	256.0
+three plus five minus four	4.0
+five into six into nine minus three minus two	265.0
+thirty two plus fifty eight	90.0
+product of three and four and sum of product of nine and eight and product of three and four	876.0
+four into five minus twenty	0.0
+fifty six added to forty four	100.0
+ninety nine plus twenty six plus seventy nine plus eighty two	286.0
+three plus seven plus four plus nine plus five plus six	34.0
+two into nine plus five minus six	17.0
+sum of three and five into four plus nine	41.0
+product of three and five added to the product of five and three added to the sum of ibe and nine	39.0
+three plus nine plus six plus five minus four into nine into nine 	1539.0
+four plus five plus six into nine into six plus four plus nine plus ten	833.0
+four plus five plus six into nine into six 	810.0
+product of three and four added to the product of three and five	27.0
+three times three plus four times five	65.0
+three minus four plus seventy six	75.0
+product of three and four minus product of one and five	7.0
+one plus one plus two plus three	5.0
+three times four added to the sum of one and three minus four	12.0
+two plus three plus four plus five	14.0
+product of three and four plus five minus six plus seven plus seven plus eight	33.0
+two divided by three divided by 4 divivided by 6	0.027778
+thirty nine plus thirty four	73.0
+two times three plus two times six	48.0
+three plus five into into six into seven into eight into nine plus four plus five plus six divided by two	66060295.5
+thirty three plus thirty four 	67.0
+twenty two plus twenty three plus sixty seven minus three	109.0
+product of three and sum of product of three and sum of four and five	81.0
+twenty five multiplied by four	100.0
+hundred into hundred into hundred into hundred into hundred	10000000000.0
+five into six into seven	210.0
+five into five into five into five into five into five	15625.0
+five into four into five into six into seven into eight	33600.0
+five plus five into six plus seven	67.0
+ninety seven plus eighty four 	181.0
+twenty nine thousand three hundred forty six plus twenty two hundred five hundred seventy seven 	29366.0
+twenty nine thousand three hundred seventy seven plus twenty seven thousand three hundred thirty two	56709.0
+five hundred thirty six plus five hundred ninety seven	1133.0
+three ninety seven into four ninety three	100551.0
+three hundred ninety seven into four hundred seventy six	188972.0
+nine hundred seventy nine plus four hundred seventy six minus seven hundred forty two plus five hundred sixty six	1279.0
+sum of one and two and three and four and five and six and seven and eight	36.0
+product of three and sum of four and seven	33.0
+five hundred and fifty six into seven hundred and eighty one	2838175200.0
+two hundred ninety seven into seven hundred fifty two	223344.0
+three hundred seventy one divided by seven hundred ninety two	0.468434
+three hudred ninety seven divided by four hundred fifty six divided by tw hundred ninety seven divided by three hundred forty seven	0.0
+two hundred seventy six into seven hundred ninety two into four hundred ninety seven	108640224.0
+seven hundred ninety two minus nine hundred ninety four plus five hundred seventy six plus seven hundred forty five	1119.0
+two hundred twenty five times dix hundred seventy nine minus four hundred fifty times eight divided by six hundred seventy six	18657.692308
+three hundred ninety four plus five	399.0
+find me the sum of three and four divided by six and seven	8.166667
+two hudred ninety seven added to the sum of five hundred sixty four and five hundred ninety 	1341.0
+five hundred ninety seven added to the product three and four	609.0
+five plus three	8.0
+five hundred ninety plus four hundred seventy plus nine hundred ninety 	2050.0
+nine hundred ninety seven plus four hundred seventy six	1473.0
+seven hundred five plus nine hundred seven plus nine hundred two	2514.0
+two hundred one divided by three	67.0
+nine hundred ninety nine plus one	1000.0
+one hundred four plus two hundred three plus five hundred seven	814.0
+nine hundred plus fur hundred	1000.0
+nine hundred seventy six plus seven hundred ninety two plus one thousand five hundred ninety seven plus nine thousand seventy	12435.0
+what is the sum of five and nine	14.0
+two plus three	5.0
+find by the sum of three and four added to the sum of nine and four	20.0
+what is the sum of three and four and five and six	18.0
+ninety hundred four plus five hundred sixty nine minus twenty hundred nine plus four hundred fifty two	8016.0
+two plus two plus three plus seven plus nine plus seven plus eight plus nine minus two	45.0
+two hundred plus three hundred 	500.0
+nine hundred plus seven hundred four minus seven hundred nine into two hundred four	182580.0
+nine hundred four plus four hundred five	1309.0
+THe sum of nine and four	13.0
+2 + 3 into 4 - 7 into nine into nine	1053.0
+nine plus thousand minus four thousand five into hundred minus three million	-3299600.0
+five plus four plus nine into seven plus nine into eight	1080.0
+three hundred ninety four plus five hundred seventy six	970.0
+two hundred ninety seven plus forty six	343.0
+two times seven	14.0
+ten million four hundred thousand five hundred seventy nine plus four million	14400579.0
+two times three plus four times six	60.0
+two plus three plus four plus nine	18.0
+two million minus four million minus six million plus seven million plus nine million	8000000.0
+find the sum of nine and four	13.0
+sum of product of three and four and product of nine and four	48.0
+sum of three and four minus six	1.0
+sum of three and four minus sum of nine and six minus product of three and four	-20.0
+find sum of nine and three and four minus two into three and four	168.0
+sum of three ad four into sum of nine and nine into sum of four into five	-360.0
+sum of ninety three into sum of forty five and ninety nine minus product of three and four	13380.0
+three plus four minus five minus six plus seven	3.0
+minus nine minus six plus four minus seven	0.0
+ sum of three and four into sum of four and five into sum of nine and eight	1071.0
+product of three and four minus product of nine and eight	-60.0
+one plus three plus five plus six plus five plus seven	27.0
+niety seven multiplied by forty two	294.0
+ninety nine plus forty six	145.0
+nine hundred seventy six multiplied by five hundred twenty two	509472.0
+ten plus two plus four plus six plus seven plus nine plus nine plus ten	57.0
+sum of three and four into sum of nine and six into three divided by two into four divided by two	315.0
+sum of two hundred nine and five hundred six divided by sum of nine hundred nine and two	0.784852
+one plus two divided by five	-0.2
+two hundred two divided by two	101.0
+five hundred ninety six divided by four	149.0
+nine hundred ninety seven plus five hundred sixty two	1559.0
+find the sum of thirty and fifty six	86.0
+sum of three and nine into sum of nine and four	156.0
+two million three hundresd thousand into four hundred nine hundred ninety six	7996012.0
+nine billion plus six milion	9000000006.0
+nine hundred six divided by two million	0.000453
+two billion times three	6000000000.0
+nine divided by three minus product of two and three	-3.0
+three plus five plus six plus seven	21.0
+nine hundred fifty six into seven hundred seventy seven	742812.0
+five million sixty seven into seven hundred ninety two	3960053064.0
+two plus three minus six plus four	3.0
+nine hundred ninety two plus five hundred sixty two into five hundred divided by six billion	0.00013
+sum of six million and nine million into sum of nine million and seven million	240000000000000.0
+ninety nine thousand nine hundred ninety nine plus fifty thousand five hundred sixty seven	150566.0
+nine plus four	13.0
+ninety nine plus fifty seven into seventy nine plus ninety eight	12422.0
+ 2 plus 3 plus 4 plus seven into ninety nine into seventy six	120384.0
+one plus two	-1.0
+three plus four	7.0
+nine plus five	14.0
+one plus two plus three plus four	10.0
+five plus ninety three	98.0
+sum of three and four into sum of nine and four into sum of three and four	637.0
+two into two	4.0
+four into six	24.0
+five into six	30.0
+nine into nine into nine into nine	6561.0
+two plus five	7.0
+nine plus ninety nine	108.0
+five hundred fifty nine into four hundred ninety six	277264.0
+sum of three and four into sum of three and five into sum of ninr hundred and hundred	11200.0
+three divided by three	1.0
+ninety nine divided by nine	11.0
+product of three and six into product of five and three	270.0
+sum of three and four into sum of five and six into sum of nine and one	770.0
+sum of three and seven into sum of five and five divided by two	50.0
+sum of three and six into sum of five and five minus product of three and four	78.0
+sum of thirty three and sixty six into product of three and four	1188.0
+product of thirty four and forty nine minus product of three and four minus product of nine and sum of five and four	1573.0
+sum of three and four and four and five and one	17.0
+five into six into four into one	120.0
+sum of three and five	8.0
+nine hundred five plus seven hundred nine	1614.0
+sum of nine and five minus three plus five	16.0
+sum of three and four plus five and six	18.0
+two million ninety two plus ninety nine hundred sixty seven	2000182.0
+find me the sum of three and four multiplied by the sum of five and six	77.0
+sum of ninety nine and fifty six 	155.0
+sum of one and five minus sum of one and five	0.0
+two billion minus three billion	-1000000000.0
+ten billion plus ten billion plus two billion minus three billion minus four billion	15000000000.0
+ninety nine thousand five hundred fifty six plus sixty seven thousand five hudred	166561.0
+three hundred ninety nine plus four hundred seventy six	875.0
+five hundred seventy two and nine hundred ninety seven	572997.0
+two times three added to sum of two billion and five bilion	2000000011.0
+two times three added to sum of two billion and five billion	7000000006.0
+one billion plus two billion plus seven million plus five million 	3012000000.0
+three hundred seven plus five hundred seven	814.0
+two billion plus five billion minus three billion into seven billion	2.8e+19
+one plus two minus seven	-4.0
+one minus three plus seven into nine	45.0
+one billion into seven billion minus ten billion	6.99999999e+18
+one by three	13.0
+one divided by two	0.5
+one divided by two into one divided by two	0.25
+two plus three plus six minus ten	1.0
+product of three and four minus product of five and six	-18.0
+product of five and six minus product of three and five minus product of three and five	0.0
+sum of three and four minus sum of five and six minus sum of one and two	-7.0
+one into two plus five into six plus seven into three	147.0
+sum of thirty four into sum of thirty three and fifty six	3026.0
+sum of thirty four and fifty six	90.0
+sum of three ANd five into sum of five and six	88.0
+nine hundred thirty seven plus five hundred sixty nine	1506.0
+ sum of three and four into sum of three and five into sum of five and six	616.0
+ sum of three and four into sum of three and five and sum of six and five	67.0
+ sum of three and multiplication of five and four	23.0
+product of three and four minus product of five and six minus product of three and six	-36.0
+onr billion divided by two billion	0.5
+two billion divided by one billion minus four billion divided by two	-1999999999.0
+sum of three and four minus sum of five and nine minus product of three and four	-19.0
+sum of three and four minus product of nine and five minus sum of one and two	-41.0
+sum of three and four minus product of three and two 	1.0
+sum of ine and ten into sum of three and four	70.0
+sum of nine and ten into sum of three and four	133.0
+two billion divided by one billion minus four billion divided by two billion minus six billion divided by three billion	-2.0
+two times two plus three times three plus four times five	125.0
+three times four into fives times six	360.0
+three into four divided by five into six	14.4
+what is the sum four and five ?	9.0
+Hello NLP Calculator, what is the result of sum of three and five minus p[roduct of five and six ?	-3.0
+give me the answer to the question, " sum of nine and eight minus product of five and three "	2.0
+heelo world, the answer to the sum of five and six times three is as follows	33.0
+please calculate the sum of three and five	8.0
+what is two and three?	23.0
+find me the product of three and the sum of two and five	21.0
+subtract three from five	2.0
+one divided by one added to the sum of three and five	9.0
+two times two added to the sum of three and four	11.0
+one billion times three million added to the sum of four and five	3000000000000009.0
+addition of two and three	5.0
+two plus six minus seven into seven	7.0
+two times three added to the sum of five and six	17.0
+three plus nine million minus seventy million plus eight	-60999989.0
+two million plus three million	5000000.0
+two million nine hundred fufty seven plus nine thousand eight hundred fifty six	2010749.0
+sum of three and five plus sixty nine	77.0
+product of ninety seven and three minus product of thirty two and ninety nine	-2877.0
+ninety nine added to the subtraction of fifty from hundred	149.0
+ninety two added to the product of three and four	104.0
+one billion minus six billion seven 	-5000000007.0
+minus one plus seventy nine into the product of fifty six and ninety two	-412160.0
+six million plus five million	11000000.0
+two hundred six plus nine hundred six	1112.0
+two million three plus nine million seven	11000010.0
+subtraction of three from nine divided by six	1.0
+sum of three and six is	9.0
+the sum of ninety six and fifty four times two is	300.0
+sum of two and three into sum of five and six into sum of seven and eight	825.0
+product of three and seven minus product of three and four minus product of two and one	7.0
+sum of one billion and three billion minus four billion	0.0
+two million plus seven million	9000000.0
+two times three into sum of five and six into sum of five and eight	858.0
+product of three and six minus product of three and four	6.0
+cube root of nine	2.080084
+sum of 3 and 5 into product of 9 and 6	432.0
+sum of 3 and 5 minus sum of 5 and 9 minus sum of 7 and 8	-21.0
+sum of 1 and 3 into product of 5 and 10 into sum of 1 and 6	1400.0
+sum of 90 and 56	146.0
+product of 9 billion and 5 billion into product of seventy thousand and eighty thousand two hundred ninety four plus five	5.620580005e+27
+one billion minus two billion added to the product of one billion and one billion	9.99999999e+17
+one miilion subtracted from two million added to the product of three and one million	4999999.0
+one million subtracted from two million added to the product of three and one million	4000000.0
+sum of three and cube root of eight	5.0
+SUm of Two and three	5.0
+two times three minus five times six minus seven times eight	-8.0
+sum of two and three	5.0
+two times two minus three times three times four times five	60.0
+two times two	4.0
+two times two minus three times three minus four times four	-4.0
+product of five and six minus product of one and two	28.0
